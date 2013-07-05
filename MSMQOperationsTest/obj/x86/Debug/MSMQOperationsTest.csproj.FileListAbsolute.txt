@@ -1,0 +1,9 @@
+c:\users\saibaba.b\documents\visual studio 2010\Projects\MSMQOperationsTest\MSMQOperationsTest\bin\Debug\MSMQOperationsTest.exe.config
+c:\users\saibaba.b\documents\visual studio 2010\Projects\MSMQOperationsTest\MSMQOperationsTest\bin\Debug\MSMQOperationsTest.exe
+c:\users\saibaba.b\documents\visual studio 2010\Projects\MSMQOperationsTest\MSMQOperationsTest\bin\Debug\MSMQOperationsTest.pdb
+c:\users\saibaba.b\documents\visual studio 2010\Projects\MSMQOperationsTest\MSMQOperationsTest\obj\x86\Debug\MSMQOperationsTest.frmMSMQ.resources
+c:\users\saibaba.b\documents\visual studio 2010\Projects\MSMQOperationsTest\MSMQOperationsTest\obj\x86\Debug\MSMQOperationsTest.Properties.Resources.resources
+c:\users\saibaba.b\documents\visual studio 2010\Projects\MSMQOperationsTest\MSMQOperationsTest\obj\x86\Debug\MSMQOperationsTest.csproj.GenerateResource.Cache
+c:\users\saibaba.b\documents\visual studio 2010\Projects\MSMQOperationsTest\MSMQOperationsTest\obj\x86\Debug\MSMQOperationsTest.exe
+c:\users\saibaba.b\documents\visual studio 2010\Projects\MSMQOperationsTest\MSMQOperationsTest\obj\x86\Debug\MSMQOperationsTest.pdb
+C:\Users\saibaba.b\Documents\Visual Studio 2010\Projects\MSMQOperationsTest\MSMQOperationsTest\obj\x86\Debug\MSMQOperationsTest.csprojResolveAssemblyReference.cache
