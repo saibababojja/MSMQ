@@ -7,3 +7,12 @@ c:\users\saibaba.b\documents\visual studio 2010\Projects\MSMQOperationsTest\MSMQ
 c:\users\saibaba.b\documents\visual studio 2010\Projects\MSMQOperationsTest\MSMQOperationsTest\obj\x86\Debug\MSMQOperationsTest.exe
 c:\users\saibaba.b\documents\visual studio 2010\Projects\MSMQOperationsTest\MSMQOperationsTest\obj\x86\Debug\MSMQOperationsTest.pdb
 C:\Users\saibaba.b\Documents\Visual Studio 2010\Projects\MSMQOperationsTest\MSMQOperationsTest\obj\x86\Debug\MSMQOperationsTest.csprojResolveAssemblyReference.cache
+C:\Users\saibaba.b\Documents\GitHub\MSMQ\MSMQOperationsTest\bin\Debug\MSMQOperationsTest.exe.config
+C:\Users\saibaba.b\Documents\GitHub\MSMQ\MSMQOperationsTest\obj\x86\Debug\MSMQOperationsTest.exe
+C:\Users\saibaba.b\Documents\GitHub\MSMQ\MSMQOperationsTest\obj\x86\Debug\MSMQOperationsTest.pdb
+C:\Users\saibaba.b\Documents\GitHub\MSMQ\MSMQOperationsTest\bin\Debug\MSMQOperationsTest.exe
+C:\Users\saibaba.b\Documents\GitHub\MSMQ\MSMQOperationsTest\bin\Debug\MSMQOperationsTest.pdb
+C:\Users\saibaba.b\Documents\GitHub\MSMQ\MSMQOperationsTest\obj\x86\Debug\MSMQOperationsTest.csprojResolveAssemblyReference.cache
+C:\Users\saibaba.b\Documents\GitHub\MSMQ\MSMQOperationsTest\obj\x86\Debug\MSMQOperationsTest.frmMSMQ.resources
+C:\Users\saibaba.b\Documents\GitHub\MSMQ\MSMQOperationsTest\obj\x86\Debug\MSMQOperationsTest.Properties.Resources.resources
+C:\Users\saibaba.b\Documents\GitHub\MSMQ\MSMQOperationsTest\obj\x86\Debug\MSMQOperationsTest.csproj.GenerateResource.Cache

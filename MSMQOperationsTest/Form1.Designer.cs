@@ -50,7 +50,7 @@
             this.label1.Location = new System.Drawing.Point(6, 14);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(89, 18);
-            this.label1.TabIndex = 1;
+            this.label1.TabIndex = 4;
             this.label1.Text = "Queue Name";
             // 
             // PushBtn
@@ -58,7 +58,7 @@
             this.PushBtn.Location = new System.Drawing.Point(101, 85);
             this.PushBtn.Name = "PushBtn";
             this.PushBtn.Size = new System.Drawing.Size(75, 23);
-            this.PushBtn.TabIndex = 4;
+            this.PushBtn.TabIndex = 2;
             this.PushBtn.Text = "Push";
             this.PushBtn.UseVisualStyleBackColor = true;
             this.PushBtn.Click += new System.EventHandler(this.PushBtn_Click);
@@ -68,7 +68,7 @@
             this.PopBtn.Location = new System.Drawing.Point(192, 85);
             this.PopBtn.Name = "PopBtn";
             this.PopBtn.Size = new System.Drawing.Size(75, 23);
-            this.PopBtn.TabIndex = 5;
+            this.PopBtn.TabIndex = 3;
             this.PopBtn.Text = "Pop";
             this.PopBtn.UseVisualStyleBackColor = true;
             this.PopBtn.Click += new System.EventHandler(this.PopBtn_Click);
@@ -78,7 +78,7 @@
             this.txtInputData.Location = new System.Drawing.Point(101, 45);
             this.txtInputData.Name = "txtInputData";
             this.txtInputData.Size = new System.Drawing.Size(177, 20);
-            this.txtInputData.TabIndex = 6;
+            this.txtInputData.TabIndex = 1;
             // 
             // label2
             // 
@@ -87,11 +87,12 @@
             this.label2.Location = new System.Drawing.Point(6, 47);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(73, 18);
-            this.label2.TabIndex = 7;
+            this.label2.TabIndex = 5;
             this.label2.Text = "Input Data";
             // 
             // frmMSMQ
             // 
+            this.AcceptButton = this.PushBtn;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(305, 144);
